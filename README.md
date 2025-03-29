@@ -1,4 +1,4 @@
-# Insurance-Claim-Severity-Prediction-Mode
+# Insurance-Claim-Severity-Prediction-Model
 
 ## Overview
 This project aims to predict insurance claim severity using machine learning models. The dataset consists of various features, including policyholder demographics, vehicle details, and claim history. By leveraging statistical analysis and machine learning techniques, we aim to improve risk assessment and enhance underwriting decisions.
